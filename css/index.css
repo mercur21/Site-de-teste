@@ -1,3 +1,31 @@
+html{
+    background-color: rgb(165, 165, 165);
+}
 body{
-    background-color: aqua;
+    background-color: #ff0000;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
+p, h1 {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    border-bottom: #010e04;
+    font-size: 32px;
+    text-align: center;
+    padding: 20px 0;
+    color: rgb(0, 162, 255);
+    text-shadow: 3px 3px 1px black;
+}
+p {
+    text-shadow: #1ba038;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: rgb(0, 0, 0);
+}
+img {
+    display: block;
+    margin: 0 auto;
 }

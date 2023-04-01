@@ -1,3 +1,3 @@
 function alertar(){
-    alert("Projeto siteeee")
+    alert("Projeto site")
 }
